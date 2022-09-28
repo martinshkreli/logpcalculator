@@ -4,7 +4,6 @@ import sys
 import os.path as osp
 import numpy as np
 from joblib import load
-
 import torch
 from classicalgsg.molreps_models.gsg import GSG
 from classicalgsg.classicalgsg import OBFFGSG
